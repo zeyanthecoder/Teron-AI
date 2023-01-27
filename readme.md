@@ -2,6 +2,7 @@
 <p>Teron AI is an advanced AI assistant developed by Zeyan Ramzan. It offers a wide range of features including a chatbot, question answering, jokes, music, Wikipedia search, alarm setting, chrome automation, youtube automation, open and close apps, speech to text, check internet speed, talk in two different voices male and female, download yt videos and many more. The project is open for contributions and commits. Improve productivity and have fun with Teron AI.</p>
 
 <h2>Features</h2>
+
 ◉ Chatbot
 
 ◉ Question answering
