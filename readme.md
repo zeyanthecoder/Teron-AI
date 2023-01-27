@@ -1,4 +1,5 @@
 Teron AI - The Ultimate AI Assistant
+
 An advanced AI assistant created by Zeyan Ramzan, that can chat with you, answer your questions, tell you jokes, play music, and much more! With a wide range of capabilities and an easy-to-use GUI, Teron AI is the ultimate tool for anyone looking to streamline their daily tasks and make their life easier.
 
 Features
